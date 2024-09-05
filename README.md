@@ -1,1 +1,1 @@
-# AHB-to-APB-Bridge
+#AHB2APB Bridge IP Core Design and Verification
