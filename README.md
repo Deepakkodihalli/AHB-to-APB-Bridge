@@ -12,4 +12,5 @@ Bridge will do the following: Latches address and holds it valid throughout the 
 ![Screenshot 2024-09-16 220411](https://github.com/user-attachments/assets/e12871f6-6150-4623-b3ff-77caeb90a806)
 
 # TB Architecture:
-![Screenshot 2024-08-23 154447](https://github.com/user-attachments/assets/23af9c76-2e0f-43fd-978e-74193c7a8def)
+![Screenshot 2024-09-25 120922](https://github.com/user-attachments/assets/8ead7941-8d17-4c5b-91bf-cecedc1b49a3)
+
